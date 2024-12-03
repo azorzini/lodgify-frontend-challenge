@@ -20,7 +20,7 @@ The project consists of a React application with a widget that shows the current
 The user should be able to see the missing tasks of a specific area and be able to mark them as done.
 
 ## Demo
-A live demo of the application is available at: [-](-)
+A live demo of the application is available at: [https://interesting-frontend-challenge.netlify.app/](https://interesting-frontend-challenge.netlify.app/)
 
 ## Design
 The design of the app is based on the Figma file provided by the challenge creators and implemented using the Tailwind CSS framework.
